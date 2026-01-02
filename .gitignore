@@ -1,0 +1,22 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+
+# Firebase
+functions/node_modules/
+
+# OS
+.DS_Store
